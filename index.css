@@ -1,0 +1,52 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.all-content{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.container{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    margin: 1.5em;
+    background:  rgb(241, 232, 232);
+    border-radius: 15px;
+    width: 30em;
+}
+.image{
+    width: 30em;
+}
+.text{
+    padding: 10px;
+    border: 1px solid black;
+    width: 30em;
+}
+.text h4{
+    color: rgb(44, 41, 41);
+    opacity: .7;
+    font-size: 25px;
+}
+.text h2{
+    font-size: 60px;
+}
+.text h3{
+    font-size: 25px;
+}
+.cost{
+    margin: 15px;
+    width: 520px;
+}
+.cost h2{
+    margin: 0 .5em;
+}
+button{
+    padding: 15px;
+    font-size: 25px;
+    border-radius: 12px;
+    margin: 0 .5em;
+    width: 450px;
+}
