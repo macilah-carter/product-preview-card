@@ -22,8 +22,7 @@
 }
 .text{
     padding: 10px;
-    border: 1px solid black;
-    width: 30em;
+    width: 100%;
 }
 .text h4{
     color: rgb(44, 41, 41);
@@ -37,8 +36,7 @@
     font-size: 25px;
 }
 .cost{
-    margin: 15px;
-    width: 520px;
+    width: 100%;
 }
 .cost h2{
     margin: 0 .5em;
@@ -47,6 +45,5 @@ button{
     padding: 15px;
     font-size: 25px;
     border-radius: 12px;
-    margin: 0 .5em;
-    width: 450px;
+    width: 100%
 }
